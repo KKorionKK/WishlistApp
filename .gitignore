@@ -1,0 +1,7 @@
+/server/.env
+.ruff_cache
+*/.idea
+/web_client/node_modules/
+/web_client/dist/
+/server/.idea/
+/server/venv/
